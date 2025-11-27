@@ -92,12 +92,5 @@ Below is a clear breakdown of the business requirements handled in the Uber Anal
 * ⏰ **Busy time slots (peak hours)**
 * 🌍 **Busy areas (high-demand locations)**
 
----
 
-If you want, I can also:
-✅ Add a **banner image** for the top of the README
-✅ Format this in a **table layout**
-✅ Add color-coded badges
-✅ Add a full README with installation steps, screenshots, and project summary
 
-Just tell me!
