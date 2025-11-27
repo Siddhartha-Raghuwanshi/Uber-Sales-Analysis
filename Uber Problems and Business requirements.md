@@ -1,7 +1,3 @@
-Here is your content beautifully formatted, structured, and enhanced with icons — **fully ready for a GitHub README `.md` file**.
-
----
-
 # 🚖 **Uber Analytics – Problems & Business Requirements**
 
 Below is a clear breakdown of the business requirements handled in the Uber Analytics Dashboard. Each section outlines the insights users can explore.
@@ -91,6 +87,7 @@ Below is a clear breakdown of the business requirements handled in the Uber Anal
 * 🚗 **Distance covered by each vehicle**
 * ⏰ **Busy time slots (peak hours)**
 * 🌍 **Busy areas (high-demand locations)**
+
 
 
 
