@@ -21,37 +21,37 @@ A clean landing page with navigation buttons directing users to different analys
 
 ### 🔹 **Overview**
 
-* Total trips
+* Completed trips
 * Total revenue
-* Average fare
+* Average Distance
+* Average ride ratings
 * Peak months & daily trends
-* Trip distribution by category
 
 ### 🔹 **Vehicle Analysis**
 
-* Vehicle utilization rate
-* Trips by vehicle type
-* Distance vs. vehicle performance
-* Fuel efficiency-based patterns (if applicable)
+* Customers count by vehicle type
+* Completed trips by vehicle type
+* Revenue count by each vehicle
+* Vehicle Contribuion in all trips
 
 ### 🔹 **Revenue Insights**
 
-* Revenue by month
-* Revenue by city/region
-* High-earning trip categories
-* Per-trip earning analysis
+* Revenue by month & quarter
+* Revenue by payment method
+* High-earning vehicle categories
+* Per-customer earning analysis
 
 ### 🔹 **Rider Insights**
 
-* Rider demographics (if available)
-* New vs. returning riders
+* Ride Cancellation reason count
+* New vs returning riders
 * Trip frequency per rider
 * Rider behavior patterns
 
 ### 🔹 **Distance & Bookings**
 
-* Total distance traveled
-* Average trip distance
+* Total distance traveled monthly & quarterly
+* Trip distance covered by each vehicle
 * Booking volume trends
 * Time-based booking patterns
 
