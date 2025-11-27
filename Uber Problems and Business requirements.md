@@ -20,9 +20,8 @@
 
 
 
-B. Added Filter for Vehicles
+###### B. Added Filter for Vehicles
 
----
 
 ###### C. Monthly \& Quarterly analysis
 
@@ -54,7 +53,7 @@ B. Added Filter for Vehicles
 
 
 
-## **2.Vehicle Page**
+### **2.Vehicle Page**
 
 
 
@@ -68,7 +67,7 @@ B. Added Filter for Vehicles
 
 
 
-## **3.Revenue Page**
+### **3.Revenue Page**
 
 
 -Revenue Monthly and Quarterly
@@ -82,7 +81,7 @@ B. Added Filter for Vehicles
 
 
 
-## **4.Rider page**
+### **4.Rider page**
 
 
 
@@ -102,7 +101,7 @@ B. Added Filter for Vehicles
 
 
 
-## **5. Location Page**
+### **5. Location Page**
 
 
 
@@ -113,4 +112,5 @@ B. Added Filter for Vehicles
 ###### -Busy time slots
 
 ###### -Busy areas
+
 
