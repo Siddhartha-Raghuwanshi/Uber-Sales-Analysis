@@ -102,4 +102,5 @@ This Uber Analytics Dashboard provides a powerful overview of Uber’s business 
 The dashboard helps identify trends, monitor performance, and support **data-driven business decisions** with visually rich insights.
 
 ---
-
+👨‍💻 Author
+Siddhartha Raghuwanshi
