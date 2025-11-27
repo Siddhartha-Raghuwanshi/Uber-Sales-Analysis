@@ -1,9 +1,3 @@
-Here is a **clean, professional, and impressive GitHub README** for your **Power BI – Uber Analytics Dashboard** project.
-
-You can copy-paste this directly into your repository.
-
----
-
 # 🚖 **Uber Analytics Dashboard – Power BI**
 
 A fully interactive **Power BI dashboard** designed to analyze **Uber trip performance**, revenue trends, rider behavior, vehicle insights, and booking patterns. This dashboard helps stakeholders make **data-driven decisions** using clear visualizations and actionable KPIs.
